@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pqTjnLb.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/2OFLrPP.png" alt="osTicket logo"/>
 </p>
 
 ### Installing Ubuntu on VirtualBox (Windows Host)
