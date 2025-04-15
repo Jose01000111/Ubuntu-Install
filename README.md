@@ -1,5 +1,5 @@
-🧪 Lab: Installing Ubuntu on VirtualBox (Windows Host)
-🔧 Step 1: Installing Oracle VirtualBox
+####🧪 Lab Tasks
+#### 🔧 Step 1: Installing Oracle VirtualBox
 I started by downloading the latest version of VirtualBox for Windows:
 
 Opened https://www.virtualbox.org/wiki/Downloads
@@ -16,14 +16,14 @@ After install, clicked Finish to launch VirtualBox
 
 🔹 Optional: I also installed the VirtualBox Extension Pack for USB 3.0 and other feature support.
 
-🐧 Step 2: Downloading Ubuntu ISO
+#### 🐧 Step 2: Downloading Ubuntu ISO
 I went to https://ubuntu.com/download/desktop
 
 Clicked Download Ubuntu 22.04 LTS
 
 Saved the .iso file (about 4.6 GB) to my Downloads folder
 
-📦 Step 3: Creating the Ubuntu Virtual Machine
+#### 📦 Step 3: Creating the Ubuntu Virtual Machine
 Inside VirtualBox:
 
 Clicked New
@@ -48,7 +48,7 @@ Dynamically allocated
 
 30 GB size
 
-🚀 Step 4: Installing Ubuntu
+#### 🚀 Step 4: Installing Ubuntu
 Clicked Start on the new VM
 
 Chose Install Ubuntu from the boot screen
@@ -81,14 +81,14 @@ Then clicked Machine > Reset
 
 Ubuntu booted up successfully into the login screen!
 
-🧰 Technology Stack
+### 🧰 Technology Stack
 🪟 Windows 10/11 (host OS)
 
 📦 VirtualBox 7.x.x
 
 🐧 Ubuntu 22.04 LTS ISO
 
-🎯 Lab Goal Summary
+### 🎯 Lab Goal Summary
 ✅ Installed VirtualBox on Windows
 ✅ Downloaded Ubuntu Desktop ISO
 ✅ Created a new Linux VM in VirtualBox
