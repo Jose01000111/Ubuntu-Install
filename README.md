@@ -1,5 +1,5 @@
 #### 🧪 Lab Tasks
-#### 🔧 Step 1: Installing Oracle VirtualBox
+#### Step 1: Installing Oracle VirtualBox
 I started by downloading the latest version of VirtualBox for Windows:
 
 Opened https://www.virtualbox.org/wiki/Downloads
@@ -16,14 +16,14 @@ After install, clicked Finish to launch VirtualBox
 
 🔹 Optional: I also installed the VirtualBox Extension Pack for USB 3.0 and other feature support.
 
-#### 🐧 Step 2: Downloading Ubuntu ISO
+#### Step 2: Downloading Ubuntu ISO
 I went to https://ubuntu.com/download/desktop
 
 Clicked Download Ubuntu 22.04 LTS
 
 Saved the .iso file (about 4.6 GB) to my Downloads folder
 
-#### 📦 Step 3: Creating the Ubuntu Virtual Machine
+#### Step 3: Creating the Ubuntu Virtual Machine
 Inside VirtualBox:
 
 Clicked New
@@ -48,7 +48,7 @@ Dynamically allocated
 
 30 GB size
 
-#### 🚀 Step 4: Installing Ubuntu
+#### Step 4: Installing Ubuntu
 Clicked Start on the new VM
 
 Chose Install Ubuntu from the boot screen
