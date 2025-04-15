@@ -97,9 +97,14 @@ Ubuntu booted up successfully into the login screen!
 🐧 Ubuntu 22.04 LTS ISO
 
 ### 🎯 Lab Goal Summary
-✅ Installed VirtualBox on Windows
-✅ Downloaded Ubuntu Desktop ISO
-✅ Created a new Linux VM in VirtualBox
-✅ Mounted and booted the Ubuntu ISO
-✅ Completed full Ubuntu installation
-✅ Successfully launched Ubuntu VM
+#### ✅ Installed VirtualBox on Windows
+
+#### ✅ Downloaded Ubuntu Desktop ISO
+
+#### ✅ Created a new Linux VM in VirtualBox
+
+#### ✅ Mounted and booted the Ubuntu ISO
+
+#### ✅ Completed full Ubuntu installation
+
+#### ✅ Successfully launched Ubuntu VM
