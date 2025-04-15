@@ -6,13 +6,19 @@
 
 This lab was completed to get familiar with virtualization and practice installing a Linux-based operating system inside a virtual machine using Oracle VirtualBox. The goal is to build a clean and isolated Ubuntu environment for future cybersecurity, networking, and Linux administration labs.
 
-
-
 #### 🧪 Lab Tasks
 #### Step 1: Installing Oracle VirtualBox
 I started by downloading the latest version of VirtualBox for Windows:
 
+<p align="center">
+<img src="https://i.imgur.com/QwT7GoJ.png" alt="osTicket logo"/>
+</p>
+
 Opened https://www.virtualbox.org/wiki/Downloads
+
+<p align="center">
+<img src="https://i.imgur.com/VKYai3Z.png" alt="osTicket logo"/>
+</p>
 
 Clicked Windows hosts to download the .exe installer
 
@@ -28,6 +34,10 @@ After install, clicked Finish to launch VirtualBox
 
 #### Step 2: Downloading Ubuntu ISO
 I went to https://ubuntu.com/download/desktop
+
+<p align="center">
+<img src="https://i.imgur.com/zolFBCp.png" alt="osTicket logo"/>
+</p>
 
 Clicked Download Ubuntu 22.04 LTS
 
@@ -50,13 +60,25 @@ Version: Ubuntu (64-bit)
 
 Allocated 4096 MB of RAM
 
+<p align="center">
+<img src="https://i.imgur.com/cUrcCSb.png" alt="osTicket logo"/>
+</p>
+
 Created a virtual hard disk:
 
 VDI (VirtualBox Disk Image)
 
 Dynamically allocated
 
+<p align="center">
+<img src="https://i.imgur.com/FMAfi60.png" alt="osTicket logo"/>
+</p>
+
 30 GB size
+
+<p align="center">
+<img src="https://i.imgur.com/3PEdBtl.png" alt="osTicket logo"/>
+</p>
 
 #### Step 4: Installing Ubuntu
 Clicked Start on the new VM
@@ -80,6 +102,10 @@ Set time zone and user credentials
 Installation took ~10 minutes
 
 At the end:
+
+<p align="center">
+<img src="https://i.imgur.com/wxfEgIC.png" alt="osTicket logo"/>
+</p>
 
 I clicked Restart Now
 
