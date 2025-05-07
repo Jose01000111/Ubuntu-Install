@@ -24,11 +24,11 @@ I clicked on the Windows hosts link to download the .exe installer. Once the dow
 
 #### Step 2: Downloading Ubuntu ISO
 
+I went to https://ubuntu.com/download/desktop, clicked Download Ubuntu 22.04 LTS, and saved the .iso file—about 4.6 GB—to my Downloads folder.
+
 <p align="center">
 <img src="https://i.imgur.com/zolFBCp.png" alt="osTicket logo"/>
 </p>
-
-I went to https://ubuntu.com/download/desktop, clicked Download Ubuntu 22.04 LTS, and saved the .iso file—about 4.6 GB—to my Downloads folder.
 
 #### Step 3: Creating the Ubuntu Virtual Machine
 Inside VirtualBox:
