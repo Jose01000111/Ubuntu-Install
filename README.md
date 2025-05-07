@@ -31,37 +31,15 @@ I went to https://ubuntu.com/download/desktop, clicked Download Ubuntu 22.04 LTS
 </p>
 
 #### Step 3: Creating the Ubuntu Virtual Machine
-Inside VirtualBox:
-
-Clicked New
-
-Gave it the name Ubuntu
-
-Selected the ISO file I downloaded
-
-Verified:
-
-Type: Linux
-
-Version: Ubuntu (64-bit)
-
-Allocated 4096 MB of RAM
+Inside VirtualBox, I clicked New to create a new virtual machine. I named it Ubuntu and selected the ISO file I had downloaded earlier. I verified the settings to make sure the Type was set to Linux and the Version was Ubuntu (64-bit). I allocated 4096 MB of RAM to the VM. For storage, I created a virtual hard disk using the VDI (VirtualBox Disk Image) format, set it to be dynamically allocated, and gave it a maximum size of 30 GB.
 
 <p align="center">
 <img src="https://i.imgur.com/cUrcCSb.png" alt="osTicket logo"/>
 </p>
 
-Created a virtual hard disk:
-
-VDI (VirtualBox Disk Image)
-
-Dynamically allocated
-
 <p align="center">
 <img src="https://i.imgur.com/FMAfi60.png" alt="osTicket logo"/>
 </p>
-
-30 GB size
 
 <p align="center">
 <img src="https://i.imgur.com/3PEdBtl.png" alt="osTicket logo"/>
