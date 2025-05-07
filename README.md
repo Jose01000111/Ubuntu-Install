@@ -46,39 +46,11 @@ Inside VirtualBox, I clicked New to create a new virtual machine. I named it Ubu
 </p>
 
 #### Step 4: Installing Ubuntu
-Clicked Start on the new VM
-
-Chose Install Ubuntu from the boot screen
-
-Setup process:
-
-Language: English
-
-Keyboard: Default (US)
-
-Installation Type: Normal Installation
-
-Checked “Install third-party software”
-
-Selected Erase disk and install Ubuntu (safe for VM)
-
-Set time zone and user credentials
-
-Installation took ~10 minutes
-
-At the end:
+I clicked Start on the new VM and, from the boot screen, chose Install Ubuntu. During the setup process, I selected English as the language and kept the default US keyboard layout. I chose the Normal Installation option and checked the box to Install third-party software. For the installation type, I selected Erase disk and install Ubuntu, which is safe since it's running in a virtual machine. I then set my time zone and created my user credentials. The installation took about 10 minutes. At the end, I clicked Restart Now. When prompted to remove the installation medium, I went to Devices > Optical Drives > Remove disk, then clicked Machine > Reset. After that, Ubuntu booted up successfully and brought me to the login screen!
 
 <p align="center">
 <img src="https://i.imgur.com/wxfEgIC.png" alt="osTicket logo"/>
 </p>
-
-I clicked Restart Now
-
-When asked to remove the installation medium:
-
-Went to Devices > Optical Drives > Remove disk
-
-Then clicked Machine > Reset
 
 Ubuntu booted up successfully into the login screen!
 
