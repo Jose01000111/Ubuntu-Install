@@ -1,8 +1,8 @@
+### Installing Ubuntu on VirtualBox (Windows Host)
+
 <p align="center">
 <img src="https://i.imgur.com/2OFLrPP.png" alt="osTicket logo"/>
 </p>
-
-### Installing Ubuntu on VirtualBox (Windows Host)
 
 This lab was completed to get familiar with virtualization and practice installing a Linux-based operating system inside a virtual machine using Oracle VirtualBox. The goal is to build a clean and isolated Ubuntu environment for future cybersecurity, networking, and Linux administration labs.
 
