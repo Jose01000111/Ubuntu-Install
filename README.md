@@ -20,28 +20,15 @@ Opened https://www.virtualbox.org/wiki/Downloads
 <img src="https://i.imgur.com/VKYai3Z.png" alt="osTicket logo"/>
 </p>
 
-Clicked Windows hosts to download the .exe installer
-
-Ran the installer → clicked Next through the setup wizard
-
-Left all default settings → clicked Install
-
-Clicked Yes when Windows asked for permission
-
-After install, clicked Finish to launch VirtualBox
-
-🔹 Optional: I also installed the VirtualBox Extension Pack for USB 3.0 and other feature support.
+I clicked on the Windows hosts link to download the .exe installer. Once the download finished, I ran the installer and clicked Next through the setup wizard. I left all the default settings as they were and clicked Install. When Windows asked for permission, I clicked Yes to proceed. After the installation completed, I clicked Finish to launch VirtualBox
 
 #### Step 2: Downloading Ubuntu ISO
-I went to https://ubuntu.com/download/desktop
 
 <p align="center">
 <img src="https://i.imgur.com/zolFBCp.png" alt="osTicket logo"/>
 </p>
 
-Clicked Download Ubuntu 22.04 LTS
-
-Saved the .iso file (about 4.6 GB) to my Downloads folder
+I went to https://ubuntu.com/download/desktop, clicked Download Ubuntu 22.04 LTS, and saved the .iso file—about 4.6 GB—to my Downloads folder.
 
 #### Step 3: Creating the Ubuntu Virtual Machine
 Inside VirtualBox:
