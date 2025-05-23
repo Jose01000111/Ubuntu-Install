@@ -71,9 +71,9 @@ I clicked Start on the new VM and, from the boot screen, chose Install Ubuntu. D
 Ubuntu booted up successfully into the login screen!
 
 ### 🧰 Technology Stack
-🪟 Windows 10/11 (host OS)
+🪟 Windows 11 (host OS)
 
-📦 VirtualBox 7.x.x
+📦 VirtualBox
 
 🐧 Ubuntu 22.04 LTS ISO
 
