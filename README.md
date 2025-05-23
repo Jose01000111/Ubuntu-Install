@@ -18,7 +18,7 @@ I started by downloading the latest version of VirtualBox for Windows:
 
 ***
 
-Opened https://www.virtualbox.org/wiki/Downloads
+[VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
 
 <p align="center">
 <img src="https://i.imgur.com/VKYai3Z.png" alt="osTicket logo"/>
